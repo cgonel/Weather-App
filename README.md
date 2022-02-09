@@ -1,5 +1,6 @@
 # Weather-App
-Weather application using the OpenWeatherMap API <br><br>
+Weather application using the OpenWeatherMap API <br>
+http://www.chrisgonel.com/weather-app/#/
 
 <!-- <h2>Home Page</h2>
 ![Home Page](weather-app-1.png) -->
